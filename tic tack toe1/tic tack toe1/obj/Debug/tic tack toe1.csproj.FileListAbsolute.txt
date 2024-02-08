@@ -1,0 +1,10 @@
+C:\Users\sfiga\source\repos\tic tack toe1\tic tack toe1\bin\Debug\tic tack toe1.exe.config
+C:\Users\sfiga\source\repos\tic tack toe1\tic tack toe1\bin\Debug\tic tack toe1.exe
+C:\Users\sfiga\source\repos\tic tack toe1\tic tack toe1\bin\Debug\tic tack toe1.pdb
+C:\Users\sfiga\source\repos\tic tack toe1\tic tack toe1\obj\Debug\tic tack toe1.csproj.AssemblyReference.cache
+C:\Users\sfiga\source\repos\tic tack toe1\tic tack toe1\obj\Debug\tic_tack_toe1.Form1.resources
+C:\Users\sfiga\source\repos\tic tack toe1\tic tack toe1\obj\Debug\tic_tack_toe1.Properties.Resources.resources
+C:\Users\sfiga\source\repos\tic tack toe1\tic tack toe1\obj\Debug\tic tack toe1.csproj.GenerateResource.cache
+C:\Users\sfiga\source\repos\tic tack toe1\tic tack toe1\obj\Debug\tic tack toe1.csproj.CoreCompileInputs.cache
+C:\Users\sfiga\source\repos\tic tack toe1\tic tack toe1\obj\Debug\tic tack toe1.exe
+C:\Users\sfiga\source\repos\tic tack toe1\tic tack toe1\obj\Debug\tic tack toe1.pdb

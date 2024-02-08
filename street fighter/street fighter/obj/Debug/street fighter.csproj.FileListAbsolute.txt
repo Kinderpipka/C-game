@@ -1,0 +1,10 @@
+C:\Users\sfiga\source\repos\street fighter\street fighter\bin\Debug\street fighter.exe.config
+C:\Users\sfiga\source\repos\street fighter\street fighter\bin\Debug\street fighter.exe
+C:\Users\sfiga\source\repos\street fighter\street fighter\bin\Debug\street fighter.pdb
+C:\Users\sfiga\source\repos\street fighter\street fighter\obj\Debug\street fighter.csproj.AssemblyReference.cache
+C:\Users\sfiga\source\repos\street fighter\street fighter\obj\Debug\street_fighter.Form1.resources
+C:\Users\sfiga\source\repos\street fighter\street fighter\obj\Debug\street_fighter.Properties.Resources.resources
+C:\Users\sfiga\source\repos\street fighter\street fighter\obj\Debug\street fighter.csproj.GenerateResource.cache
+C:\Users\sfiga\source\repos\street fighter\street fighter\obj\Debug\street fighter.csproj.CoreCompileInputs.cache
+C:\Users\sfiga\source\repos\street fighter\street fighter\obj\Debug\street fighter.exe
+C:\Users\sfiga\source\repos\street fighter\street fighter\obj\Debug\street fighter.pdb

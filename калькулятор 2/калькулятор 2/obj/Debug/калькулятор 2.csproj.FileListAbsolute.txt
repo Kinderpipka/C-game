@@ -1,0 +1,10 @@
+C:\Users\sfiga\source\repos\калькулятор 2\калькулятор 2\bin\Debug\калькулятор 2.exe.config
+C:\Users\sfiga\source\repos\калькулятор 2\калькулятор 2\bin\Debug\калькулятор 2.exe
+C:\Users\sfiga\source\repos\калькулятор 2\калькулятор 2\bin\Debug\калькулятор 2.pdb
+C:\Users\sfiga\source\repos\калькулятор 2\калькулятор 2\obj\Debug\калькулятор 2.csproj.AssemblyReference.cache
+C:\Users\sfiga\source\repos\калькулятор 2\калькулятор 2\obj\Debug\калькулятор_2.Form1.resources
+C:\Users\sfiga\source\repos\калькулятор 2\калькулятор 2\obj\Debug\калькулятор_2.Properties.Resources.resources
+C:\Users\sfiga\source\repos\калькулятор 2\калькулятор 2\obj\Debug\калькулятор 2.csproj.GenerateResource.cache
+C:\Users\sfiga\source\repos\калькулятор 2\калькулятор 2\obj\Debug\калькулятор 2.csproj.CoreCompileInputs.cache
+C:\Users\sfiga\source\repos\калькулятор 2\калькулятор 2\obj\Debug\калькулятор 2.exe
+C:\Users\sfiga\source\repos\калькулятор 2\калькулятор 2\obj\Debug\калькулятор 2.pdb

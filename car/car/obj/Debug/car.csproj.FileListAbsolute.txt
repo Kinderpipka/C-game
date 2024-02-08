@@ -1,0 +1,10 @@
+C:\Users\sfiga\source\repos\car\car\bin\Debug\car.exe.config
+C:\Users\sfiga\source\repos\car\car\bin\Debug\car.exe
+C:\Users\sfiga\source\repos\car\car\bin\Debug\car.pdb
+C:\Users\sfiga\source\repos\car\car\obj\Debug\car.csproj.AssemblyReference.cache
+C:\Users\sfiga\source\repos\car\car\obj\Debug\car.Form1.resources
+C:\Users\sfiga\source\repos\car\car\obj\Debug\car.Properties.Resources.resources
+C:\Users\sfiga\source\repos\car\car\obj\Debug\car.csproj.GenerateResource.cache
+C:\Users\sfiga\source\repos\car\car\obj\Debug\car.csproj.CoreCompileInputs.cache
+C:\Users\sfiga\source\repos\car\car\obj\Debug\car.exe
+C:\Users\sfiga\source\repos\car\car\obj\Debug\car.pdb
